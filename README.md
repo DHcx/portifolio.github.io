@@ -8,9 +8,6 @@ Here is a preview of the final result of the website:
 [🔗 Open Portfolio](https://DHcx/portifolio.github.io/portifolio.github.io/)
 ![Cover](cover.png)
 
-This repository contains the source code for my personal portfolio website, developed as an example for my **Multiplatform Software Development** students.  
-The goal is to demonstrate how to build and deploy a professional personal portfolio using **HTML, CSS, and JavaScript**, and host it using **GitHub Pages**.
-
 ---
 
 ## 🎯 Project Purpose
@@ -84,7 +81,6 @@ You may use and adapt it freely, with proper reference.
 
 ## ✉ Contact
 
-**Felipe Ivo da Silva**  
-Researcher & University Professor  
-📧 Email: *felipe_ivodasilva@hotmail.com*  
+**Diego Henrique Carlos**   
+📧 Email: *contato.diegohenrique@hotmail.com*  
 🔗 LinkedIn: *www.linkedin.com/in/felipe-ivo*  
