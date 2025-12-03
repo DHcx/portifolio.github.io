@@ -1,11 +1,11 @@
-# 🌐 Personal Portfolio – Felipe Ivo da Silva
+# 🌐 Personal Portfolio – Diego Henrique Carlos
 
 ## 📷 Preview
 
 Here is a preview of the final result of the website:
 
 
-[🔗 Open Portfolio](https://felipivo.github.io/portifolio.github.io/)
+[🔗 Open Portfolio](https://DHcx/portifolio.github.io/portifolio.github.io/)
 ![Cover](cover.png)
 
 This repository contains the source code for my personal portfolio website, developed as an example for my **Multiplatform Software Development** students.  
