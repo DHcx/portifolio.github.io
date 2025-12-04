@@ -5,7 +5,7 @@
 Here is a preview of the final result of the website:
 
 
-[🔗 Open Portfolio](https://DHcx/portifolio.github.io/portifolio.github.io/)
+[🔗 Open Portfolio](https://dhcx.github.io/portifolio.github.io/)
 ![Cover](coverdh.png)
 
 ---
