@@ -83,4 +83,4 @@ You may use and adapt it freely, with proper reference.
 
 **Diego Henrique Carlos**   
 📧 Email: *contato.diegohenrique@hotmail.com*  
-🔗 LinkedIn: *www.linkedin.com/in/felipe-ivo*  
+🔗 LinkedIn: *www.linkedin.com/in/diego-henrique-carlos-06a8a235b*  
